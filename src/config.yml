@@ -1,0 +1,10 @@
+token: 'TOKEN'
+iconURL: ''
+header: ''
+footer: ''
+thumbnail: ''
+prefix: ''
+
+channels:
+   Announcement:
+       channelID: ''

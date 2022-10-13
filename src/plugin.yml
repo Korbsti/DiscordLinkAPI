@@ -1,0 +1,7 @@
+name: DiscordLink
+version: 0.0.1
+description: JDA Api
+author: Korbsti
+main: com.scyllasrock.discordlink.DiscordLink
+api-version: 1.19
+commands:
